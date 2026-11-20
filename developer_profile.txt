@@ -1,0 +1,4 @@
+Name: Cristiana
+Role: Begginer developer
+Learning: Git,Github, Terminal
+Goal: Build my own applications
