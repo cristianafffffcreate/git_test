@@ -1,0 +1,3 @@
+my second git exercise
+i am learning programming
+i created this file myself
