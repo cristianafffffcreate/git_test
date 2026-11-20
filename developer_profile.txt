@@ -2,3 +2,5 @@ Name: Cristiana
 Role: Begginer developer
 Learning: Git,Github, Terminal
 Goal: Build my own applications
+Current project: learning web development
+next goal: HTML and CSS
